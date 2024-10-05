@@ -1,0 +1,9 @@
+@keyframes neon-pulse {
+    0%, 100% { text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #d1b26b, 0 0 35px #d1b26b, 0 0 40px #d1b26b, 0 0 50px #d1b26b, 0 0 75px #d1b26b; }
+    50% { text-shadow: 0 0 2px #fff, 0 0 5px #fff, 0 0 7px #fff, 0 0 10px #d1b26b, 0 0 17px #d1b26b, 0 0 20px #d1b26b, 0 0 25px #d1b26b, 0 0 37px #d1b26b; }
+}
+
+.neon-text {
+    animation: neon-pulse 1.5s infinite alternate;
+}
+

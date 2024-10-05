@@ -1,0 +1,127 @@
+{
+    "header": {
+        "message": "Bienvenue à l'animalerie"
+    },
+    "home": {
+        "body": "Un magasin conçu pour tous vos besoins en animaux de compagnie"
+    },
+    "products": {
+        "analytics": "Analyses",
+        "analyticsDescription": "Comprenez mieux votre trafic",
+        "engagement": "Engagement",
+        "engagementDescription": "Communiquez directement avec vos clients",
+        "security": "Sécurité",
+        "securityDescription": "Les données de vos clients seront sûres et sécurisées",
+        "integrations": "Intégrations",
+        "integrationsDescription": "Connectez-vous avec des outils tiers",
+        "automations": "Automatisations",
+        "automationsDescription": "Créez des entonnoirs stratégiques qui convertiront"
+    },
+    "cta": {
+        "watchDemo": "Regarder la démo",
+        "contactSales": "Contacter les ventes",
+        "reserveTable": "RÉSERVATION",
+        "menu": "NOTRE MENU"
+    },
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos",
+        "menu": "Menu",
+        "gallery": "GALERIE",
+        "contact": "Contact"
+    },
+    "slideshow": {
+        "title": "Bienvenue à",
+        "description": "Ici, vous pouvez voir les meilleures images de nos produits."
+    },
+    "visitGallery": {
+        "visit_gallery": "VISITER LA GALERIE"
+    },
+    "homePage2": {
+        "title": "Le Spécialiste De La Gastronomie Marocaine",
+        "p1": "Découvrez l'authenticité de la cuisine marocaine au restaurant « Dar El Kaid », situé en plein cœur de Casablanca. Nous vous offrons une expérience culinaire unique, avec des plats traditionnels comme le Tajine et le Couscous, préparés avec des ingrédients frais et des épices locales. Chaque bouchée est une célébration des saveurs du Maroc, mêlant tradition et modernité pour sublimer vos papilles.",
+        "p2": "Dès votre arrivée, vous serez accueilli dans un cadre raffiné et chaleureux, inspiré par l'architecture des palais marocains. Les couleurs vibrantes et les décorations authentiques vous plongent immédiatement dans l'ambiance marocaine. La musique douce qui accompagne votre repas renforce cette atmosphère sereine, parfaite pour un dîner romantique ou un moment convivial entre amis.",
+        "p3": "Venez découvrir une cuisine marocaine de qualité dans un lieu enchanteur. Réservez votre table pour un voyage culinaire inoubliable, où chaque plat raconte l’histoire des traditions marocaines. Que vous soyez de passage à Casablanca ou résident, laissez-nous vous offrir une expérience gastronomique mémorable."
+    },
+    "location": {
+        "title": "Notre localisation"
+    },
+    "waveDesign": {
+        "title": "Un lieu avec une histoire à partager!",
+        "p1": "Restaurant le méditerranée se situe proche de la place du 16 novembre, en plein centre-ville. Nous disposons d’une jolie terrasse, et d’une salle lumineuse, avec une atmosphère confortable, où vous trouverez une décoration faite d’un mélange d’artisanat local soigneusement mis en valeur dans un décor européen.",
+        "p2": "Nous souhaitons vous régaler avec une nourriture saine, mélange de cuisine méditerranéenne et marocaine. Nous donnons, donc, beaucoup d’importance aux fruits et légumes, aux salades, sans oublier les viandes et les poissons.",
+        "p3": "Nous vous proposons midi et soir, une carte de différentes entrées, plats principaux et desserts."
+    },
+    "ButtonPage": {
+        "title": "DES MOMENTS INOUBLIABLES À CHAQUE INSTANT...",
+        "p1": "GOÛTEZ À LA SAVEUR AUTHENTIQUE DU MAROC CHEZ NOUS.",
+        "btn": "RÉSERVATION"
+    },
+    "footer": {
+        "title1": "VISITEZ-NOUS",
+        "p1": "Restaurant Al ikbal",
+        "p2": "Rue Mohamed El Alaoui",
+        "p3": "Ex Rue des Synagogues",
+        "p4": "Old Medina - Casablanca",
+        "p5": "Tel: +212 5 22 20 23 84",
+        "p6": "reservation@alikbal.ma",
+        "title2": "HORAIRES",
+        "p1Tittle2": "Lundi – Dimanche",
+        "p2Tittle2": "09h00 - 23h00",
+        "title3": "LANGUE",
+        "title4": "NEWSLETTER",
+        "p1Tittle4": "Abonnez-vous maintenant pour recevoir nos nouveautés.",
+        "title5": "S'ABONNER",
+        "title6": "Contactez-nous"
+    },
+    "aboutUs": {
+        "title": "À PROPOS",
+        "pMain": "AL IKBAL",
+        "p1": "Situé au cœur de la médina, Dar El Kaid est un restaurant marocain à Casablanca qui offre une expérience culinaire exceptionnelle. En combinant la cuisine traditionnelle marocaine et des influences internationales, Dar El Kaid propose une fusion unique de saveurs et de cultures.",
+        "p2": "Dès que vous entrez dans le restaurant, vous serez immédiatement séduit par le décor vibrant et l’ambiance chaleureuse qui règnent en ces lieux. Les murs ornés de motifs traditionnels, les lanternes scintillantes et les couleurs riches créent une atmosphère authentique qui vous transporte au cœur de la culture marocaine.",
+        "p3": "En plus de la cuisine traditionnelle marocaine, Dar El Kaid propose également des spécialités créatives qui vous surprendront par leur originalité et leur raffinement. Les chefs talentueux de notre restaurant marient habilement les saveurs marocaines avec des techniques et des ingrédients internationaux, offrant ainsi une expérience culinaire unique en son genre.",
+        "reservation": "RÉSERVATION",
+        "visitMenu": "VOIR LE MENU"
+    },
+    "gallery": {
+        "title": "GALERIE"
+    },
+    "contact": {
+        "title": "CONTACT",
+        "titleOverImg": "Contactez-nous",
+        "p1OverImg": "470-601-1911",
+        "p2OverImg": "Pagedone1234@gmail.com",
+        "p3OverImg": "654 Sycamore Avenue, Meadowville, WA 76543",
+        "formTitle": "Envoyez-nous un message",
+        "formP1": "Nom",
+        "formP2": "Email",
+        "formP3": "Téléphone",
+        "formP4": "Message",
+        "btn": "Envoyer"
+    },
+    "reservation": {
+        "titleOverImg": "RÉSERVATION",
+        "p1OverImg": "470-601-1911",
+        "p2OverImg": "Pagedone1234@gmail.com",
+        "p3OverImg": "654 Sycamore Avenue, Meadowville, WA 76543",
+        "formTitle": "RÉSERVER UNE TABLE",
+        "formP1": "Nom",
+        "formP1Holder": "Entrez votre nom",
+        "formP2": "Email",
+        "formP2Holder": "Entrez votre adresse e-mail",
+        "formP3": "Numéro de téléphone",
+        "formP3Holder": "Entrez votre numéro de téléphone",
+        "formP4": "Date",
+        "formP4Holder": "Choisir une date",
+        "formP5": "Heure",
+        "formP6Holder": "Choisir une heure",
+        "formP6": "Espace",
+        "formP6Option1": "Fumeur",
+        "formP6Option2": "Non Fumeur",
+        "formP6Option3": "Sans Avis",
+        "formP7": "Message",
+        "formP7Holder": "Saisir toute information complémentaire",
+        "btn": "RÉSERVEZ UNE TABLE",
+        "toast": "Message envoyé avec succès!"
+    }
+}

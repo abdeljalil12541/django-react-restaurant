@@ -1,0 +1,128 @@
+{
+    "header": {
+      "message": "Bienvenido a la tienda de mascotas"
+    },
+    "home": {
+      "body": "Una tienda diseñada para todas las necesidades de tu mascota"
+    },
+    "products": {
+      "analytics": "Analíticas",
+      "analyticsDescription": "Obtén una mejor comprensión de tu tráfico",
+      "engagement": "Compromiso",
+      "engagementDescription": "Habla directamente con tus clientes",
+      "security": "Seguridad",
+      "securityDescription": "Los datos de tus clientes estarán seguros",
+      "integrations": "Integraciones",
+      "integrationsDescription": "Conéctate con herramientas de terceros",
+      "automations": "Automatizaciones",
+      "automationsDescription": "Construye embudos estratégicos que convertirán"
+    },
+    "cta": {
+      "watchDemo": "Ver demostración",
+      "contactSales": "Contactar ventas",
+      "reserveTable": "RESERVAR",
+      "menu": "NUESTRO MENÚ"
+    },
+    "nav": {
+      "home": "Inicio",
+      "about": "Acerca de",
+      "menu": "Menú",
+      "gallery": "GALERÍA",
+      "contact": "Contacto"
+    },
+    "slideshow": {
+      "title": "Bienvenido a",
+      "description": "Aquí puedes ver las mejores imágenes de nuestros productos."
+    },
+    "visitGallery": {
+      "visit_gallery": "VISITA LA GALERÍA"
+    },
+    "homePage2": {
+      "title": "El especialista en gastronomía marroquí",
+      "p1": "Descubre la autenticidad de la cocina marroquí en el restaurante Dar El Kaid, ubicado en el corazón de Casablanca. Ofrecemos una experiencia culinaria única, con platos tradicionales como el Tajine y el Cuscús, preparados con ingredientes frescos y especias locales. Cada bocado es una celebración de los sabores de Marruecos, que mezcla tradición y modernidad para deleitar tu paladar.",
+      "p2": "Desde el momento en que llegues, serás recibido por una atmósfera cálida y refinada, inspirada en la arquitectura de los palacios marroquíes. Los colores vibrantes y las decoraciones auténticas te sumergen inmediatamente en la ambientación marroquí. La suave música que acompaña tu comida refuerza esta atmósfera serena, perfecta para una cena romántica o un momento amigable con amigos.",
+      "p3": "Ven a descubrir la cocina marroquí de calidad en un entorno encantador. Reserva tu mesa para un inolvidable viaje culinario, donde cada plato cuenta la historia de las tradiciones marroquíes. Ya sea que estés de paso por Casablanca o seas residente, déjanos ofrecerte una experiencia gastronómica memorable."
+    },
+    "location": {
+      "title": "Nuestra ubicación"
+    },
+    "waveDesign": {
+      "title": "¡Un lugar con una historia que compartir!",
+      "p1": "El restaurante Le Méditerranée está situado cerca de la Place du 16 novembre, en pleno centro de la ciudad. Contamos con una hermosa terraza y una sala luminosa con una atmósfera acogedora, donde encontrarás una mezcla de artesanía local combinada con decoración europea.",
+      "p2": "Queremos ofrecerte comida saludable, una mezcla de cocina mediterránea y marroquí. Por eso ponemos mucho énfasis en frutas, verduras y ensaladas, sin olvidar la carne y el pescado.",
+      "p3": "Para el almuerzo y la cena, ofrecemos un menú con diferentes entrantes, platos principales y postres."
+    },
+    "ButtonPage": {
+      "title": "MOMENTOS INOLVIDABLES EN CADA ESQUINA...",
+      "p1": "SABOREA EL AUTÉNTICO SABOR DE MARRUECOS CON NOSOTROS.",
+      "btn": "RESERVAR"
+    },
+    "footer": {
+      "title1": "VISÍTANOS",
+      "p1": "Restaurante Al Ikbal",
+      "p2": "Rue Mohamed El Alaoui",
+      "p3": "Ex Rue des Synagogues",
+      "p4": "Ancienne Médina – Casablanca",
+      "p5": "Tél: +212 5 22 20 23 84",
+      "p6": "reservation@alikbal.ma",
+      "title2": "HORARIOS",
+      "p1Tittle2": "Lunes - Domingo",
+      "p2Tittle2": "09:00 am – 11:00 pm",
+      "title3": "IDIOMA",
+      "title4": "BOLETÍN",
+      "p1Tittle4": "Suscríbete a nuestro boletín exclusivo para las últimas novedades",
+      "title5": "SUSCRIBIRSE",
+      "title6": "Conéctate con nosotros"
+    },
+    "aboutUs": {
+      "title": "SOBRE NOSOTROS",
+      "pMain": "AL IKBAL",
+      "p1": "Ubicado en el corazón de la medina, Dar El Kaid es un restaurante marroquí en Casablanca que ofrece una experiencia culinaria excepcional. Combinando la cocina tradicional marroquí con influencias internacionales, Dar El Kaid ofrece una fusión única de sabores y culturas.",
+      "p2": "Tan pronto como entres en el restaurante, quedarás inmediatamente seducido por la vibrante decoración y la cálida atmósfera. Las paredes adornadas con motivos tradicionales, las linternas brillantes y los colores ricos crean una atmósfera auténtica que te transporta al corazón de la cultura marroquí.",
+      "p3": "Además de la cocina tradicional marroquí, Dar El Kaid también ofrece especialidades creativas que te sorprenderán con su originalidad y refinamiento. Nuestros talentosos chefs combinan hábilmente los sabores marroquíes con ingredientes y técnicas internacionales, ofreciendo una experiencia culinaria única.",
+      "reservation": "RESERVAR",
+      "visitMenu": "VER MENÚ"
+    },
+    "gallery": {
+      "title": "GALERÍA"
+    },
+    "contact": {
+      "title": "CONTACTO",
+      "titleOverImg": "Contáctanos",
+      "p1OverImg": "470-601-1911",
+      "p2OverImg": "Pagedone1234@gmail.com",
+      "p3OverImg": "654 Sycamore Avenue, Meadowville, WA 76543",
+      "formTitle": "Envíanos un mensaje",
+      "formP1": "Nombre",
+      "formP2": "Correo electrónico",
+      "formP3": "Teléfono",
+      "formP4": "Mensaje",
+      "btn": "Enviar"
+    },
+    "reservation": {
+      "titleOverImg": "RESERVAR",
+      "p1OverImg": "470-601-1911",
+      "p2OverImg": "Pagedone1234@gmail.com",
+      "p3OverImg": "654 Sycamore Avenue, Meadowville, WA 76543",
+      "formTitle": "RESERVAR UNA MESA",
+      "formP1": "Nombre",
+      "formP1Holder": "Introduce tu nombre",
+      "formP2": "Correo electrónico",
+      "formP2Holder": "Introduce tu correo electrónico",
+      "formP3": "Número de teléfono",
+      "formP3Holder": "Introduce tu número de teléfono",
+      "formP4": "Fecha",
+      "formP4Holder": "Selecciona una fecha",
+      "formP5": "Hora",
+      "formP6Holder": "Selecciona una hora",
+      "formP6": "Espacio",
+      "formP6Option1": "Fumadores",
+      "formP6Option2": "No fumadores",
+      "formP6Option3": "Sin preferencia",
+      "formP7": "Mensaje",
+      "formP7Holder": "Introduce cualquier información adicional",
+      "btn": "Reservar cita",
+      "toast": "¡Mensaje enviado con éxito!"
+    }
+  }
+  

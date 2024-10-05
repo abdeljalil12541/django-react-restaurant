@@ -1,0 +1,43 @@
+.thumbs {
+    margin-left: 11px;
+}
+
+.carousel{
+    position: relative;
+}
+
+.carousel .control-arrow, .carousel.carousel-slider .control-arrow {
+    transition: all .25s ease-in;
+    opacity: 1;
+    filter: alpha(opacity = 40);
+    position: flex;
+    z-index: 2;
+    background: none;
+    border: 0;
+    font-size: 32px;
+    cursor: pointer;
+}
+.carousel .control-arrow, .carousel.carousel-slider .control-arrow:hover {
+    opacity: 1;
+}
+
+.carousel-status{
+    z-index: 999;
+}
+
+.XIcon{
+    border: 2px solid gray;
+}
+
+.XIcon:hover {
+    cursor: pointer;
+    border: 2px solid white;
+}
+
+svg{
+    transition: all .1s;
+}
+
+.menuSvg:hover{
+    fill: #fff;
+}

@@ -1,0 +1,127 @@
+{
+    "header": {
+        "message": "Welcome to pet store"
+    },
+    "home": {
+        "body": "A store Designed for all your pet needs"
+    },
+    "products": {
+        "analytics": "Analytics",
+        "analyticsDescription": "Get a better understanding of your traffic",
+        "engagement": "Engagement",
+        "engagementDescription": "Speak directly to your customers",
+        "security": "Security",
+        "securityDescription": "Your customers’ data will be safe and secure",
+        "integrations": "Integrations",
+        "integrationsDescription": "Connect with third-party tools",
+        "automations": "Automations",
+        "automationsDescription": "Build strategic funnels that will convert"
+    },
+    "cta": {
+        "watchDemo": "Watch demo",
+        "contactSales": "Contact sales",
+        "reserveTable": "RESERVATION",
+        "menu": "OUR MENU"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "menu": "Menu",
+        "gallery": "GALLERY",
+        "contact": "Contact"
+    },
+    "slideshow": {
+        "title": "Welcome to",
+        "description": "Here you can see the best images of our products."
+    },
+    "visitGallery": {
+        "visit_gallery": "VISIT THE GALLERY"
+    },
+    "homePage2": {
+        "title": "The Moroccan Gastronomy Specialist",
+        "p1": "Discover the authenticity of Moroccan cuisine at the Dar El Kaid restaurant, located in the heart of Casablanca. We offer a unique culinary experience, with traditional dishes such as Tajine and Couscous, prepared with fresh ingredients and local spices. Each bite is a celebration of Moroccan flavors, blending tradition and modernity to delight your taste buds.",
+        "p2": "From the moment you arrive, you'll be greeted by a warm, refined atmosphere inspired by the architecture of Moroccan palaces. The vibrant colors and authentic decorations immediately immerse you in the Moroccan ambiance. The soft music that accompanies your meal reinforces this serene atmosphere, perfect for a romantic dinner or a convivial moment with friends.",
+        "p3": "Come and discover quality Moroccan cuisine in an enchanting setting. Reserve your table for an unforgettable culinary journey, where each dish tells the story of Moroccan traditions. Whether you're just passing through Casablanca or a resident, let us offer you a memorable gastronomic experience."
+    },
+    "location": {
+        "title": "Our Location"
+    },
+    "waveDesign": {
+        "title": "A place with a story to share!",
+        "p1": "Restaurant le méditerranée is located near the Place du 16 novembre, right in the center of town. We have a lovely terrace, and a bright room with a comfortable atmosphere, where you'll find a mix of local crafts carefully set off by European decor.",
+        "p2": "We want to treat you to healthy food, a blend of Mediterranean and Moroccan cuisine. So we put a lot of emphasis on fruit, vegetables and salads, not forgetting meat and fish.",
+        "p3": "For lunch and dinner, we offer a menu of different starters, main courses and desserts."
+    },
+    "ButtonPage": {
+        "title": "UNFORGETTABLE MOMENTS AT EVERY TURN...",
+        "p1": "TASTE THE AUTHENTIC FLAVOR OF MOROCCO WITH US.",
+        "btn": "RESERVATION"
+    },
+    "footer": {
+        "title1": "VISIT US",
+        "p1": "Restaurant Al ikbal",
+        "p2": "Rue Mohamed El Alaoui",
+        "p3": "Ex Rue des Synagogues",
+        "p4": "Ancienne Médina – Casablanca",
+        "p5": "Tél: +212 5 22 20 23 84",
+        "p6": "reservation@alikbal.ma",
+        "title2": "HOURS",
+        "p1Tittle2": "Monday - Sunday",
+        "p2Tittle2": "09:00 am – 11:00 pm",
+        "title3": "LANGUAGE",
+        "title4": "NEWSLETTER",
+        "p1Tittle4": "Subscribe to Our Exclusive Newsletter for the Latest Updates",
+        "title5": "SUBSCRIBE",
+        "title6": "Connect With Us"
+    },
+    "aboutUs": {
+        "title": "ABOUT US",
+        "pMain": "AL IKBAL",
+        "p1": "Located in the heart of the medina, Dar El Kaid is a Moroccan restaurant in Casablanca that offers an exceptional culinary experience. Combining traditional Moroccan cuisine with international influences, Dar El Kaid offers a unique fusion of flavors and cultures.",
+        "p2": "As soon as you enter the restaurant, you'll be immediately seduced by the vibrant decor and warm ambience. Walls adorned with traditional motifs, twinkling lanterns and rich colors create an authentic atmosphere that transports you to the heart of Moroccan culture.",
+        "p3": "In addition to traditional Moroccan cuisine, Dar El Kaid also offers creative specialties that will surprise you with their originality and refinement. Our talented chefs skilfully blend Moroccan flavours with international ingredients and techniques, offering a unique culinary experience.",
+        "reservation": "RESERVATION",
+        "visitMenu": "SEE MENU"    
+    },
+    "gallery": {
+        "title": "GALLERY"
+    },
+    "contact": {
+        "title": "CONTACT",
+        "titleOverImg": "Contact us",
+        "p1OverImg": "470-601-1911",
+        "p2OverImg": "Pagedone1234@gmail.com",
+        "p3OverImg": "654 Sycamore Avenue, Meadowville, WA 76543",
+        "formTitle": "Send Us A Message",
+        "formP1": "Name",
+        "formP2": "Email",
+        "formP3": "Phone",
+        "formP4": "Message",
+        "btn": "Send"
+    },
+    "reservation": {
+        "titleOverImg": "RESERVATION",
+        "p1OverImg": "470-601-1911",
+        "p2OverImg": "Pagedone1234@gmail.com",
+        "p3OverImg": "654 Sycamore Avenue, Meadowville, WA 76543",
+        "formTitle": "BOOK A TABLE",
+        "formP1": "Name",
+        "formP1Holder": "Enter your Name",
+        "formP2": "Email",
+        "formP2Holder": "Enter your email",
+        "formP3": "Phone Number",
+        "formP3Holder": "Enter your phone number",
+        "formP4": "Date",
+        "formP4Holder": "Select a date",
+        "formP5": "Time",
+        "formP6Holder": "Select a time",
+        "formP6": "Space",
+        "formP6Option1": "Smoking",
+        "formP6Option2": "No Smoking",
+        "formP6Option3": "no opinion",
+        "formP7": "Message",
+        "formP7Holder": "Enter any additional information",
+        "btn": "Book Appointment",
+        "toast": "Message sent Successfully!"
+    }
+}

@@ -1,0 +1,42 @@
+.galerie{
+    background: linear-gradient(0deg, #fff 60%, #f1e1ba );
+    padding: 40px 0;
+    color: #d1b26b;
+}
+
+.galleryImg{
+    cursor: pointer;
+}
+
+.small-thumbnails{
+    height: 250px;
+}
+
+.big-thumbnails{
+    height: 350px;
+}
+
+.slidesShowModal{
+    height: 450px;
+    width: 700px;
+}
+
+
+.backdrop-blur-sm{
+    background-color: transparent !important;
+}
+
+.modalBg{
+    background-color: black; /* Set the background color */
+    position: fixed; /* Change to fixed to cover the entire viewport */
+    top: 0; /* Align to the top */
+    left: 0; /* Align to the left */
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    opacity: 0.6; /* Set the desired opacity */
+    z-index: 999; /* Ensure it appears above other content */
+}
+
+.shadow-2xl {
+    box-shadow: none;
+}
